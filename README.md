@@ -3,7 +3,7 @@
 ![Sementic Version](https://img.shields.io/github/tag/tonycavella/pkiutil.svg)
 ![Contributors](https://img.shields.io/github/contributors/tonycavella/pkiutils.svg)
 ![GPL License](https://img.shields.io/github/license/tonycavella/pkiutils.svg)
-[![LinkedIn][linkedin-shield]][https://linkedin.com/anthony.cavella]
+![LinkedIn][linkedin-shield]][https://tonycavella.com]
 
 
 
