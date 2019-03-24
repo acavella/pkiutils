@@ -1,8 +1,9 @@
 <!-- PROJECT SHIELDS -->
 [![Build Status][build-shield]]()
-[![Contributors][contributors-shield]]()
+![Sementic Version](https://img.shields.io/github/tag/tonycavella/pkiutil.svg)
+![Contributors](https://img.shields.io/github/contributors/tonycavella/pkiutils.svg)
 ![GPL License](https://img.shields.io/github/license/tonycavella/pkiutils.svg)
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://linkedin.com/anthony.cavella]
 
 
 
