@@ -1,7 +1,7 @@
 <!-- PROJECT SHIELDS -->
 [![Build Status][build-shield]]()
 [![Contributors][contributors-shield]]()
-[![MIT License][license-shield]][license-url]
+![GPL License](https://img.shields.io/github/license/tonycavella/pkiutils.svg)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
