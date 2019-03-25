@@ -60,9 +60,9 @@ Here's why:
 * PKIUtils can be set to automate routine functions.
 
 ### Built with
-* [BASH](https://www.gnu.org/software/bash/) - Bash is an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh). It is intended to conform to the IEEE POSIX P1003.2/ISO 9945.2 Shell and Tools standard.
-* [curl](https://curl.haxx.se/) - 
-* [OpenSSL](https://openssl.org) - 
+* [Bash](https://www.gnu.org/software/bash/) - Bash is an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh). It is intended to conform to the IEEE POSIX P1003.2/ISO 9945.2 Shell and Tools standard.
+* [libcurl](https://curl.haxx.se/) - libcurl is the most used C-based highly portable transfer library in the world. Some of the world's biggest companies use libcurl in high volume applications.
+* [OpenSSL](https://openssl.org) - OpenSSL is a robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols.
 
 
 
