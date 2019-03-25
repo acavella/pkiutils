@@ -1,8 +1,8 @@
 <!-- PROJECT SHIELDS -->
 [![Build Status][build-shield]]()
-![Sementic Version](https://img.shields.io/github/tag/tonycavella/pkiutil.svg)
-![Contributors](https://img.shields.io/github/contributors/tonycavella/pkiutils.svg)
-![GPL License](https://img.shields.io/github/license/tonycavella/pkiutils.svg)
+[![Contributors][contributors-shield]]()
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -161,8 +161,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- MARKDOWN LINKS & IMAGES -->
 [build-shield]: https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square
 [contributors-shield]: https://img.shields.io/badge/contributors-1-orange.svg?style=flat-square
-[license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
-[license-url]: https://choosealicense.com/licenses/mit
+[license-shield]: https://img.shields.io/github/license/tonycavella/pkiutils.svg?style=flat-square
+[license-url]: https://choosealicense.com/licenses/gpl-3.0/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/anthonycavella
 [product-screenshot]: https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/screenshot.png
