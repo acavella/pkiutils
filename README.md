@@ -64,8 +64,6 @@ Here's why:
 * [libcurl](https://curl.haxx.se/) - libcurl is the most used C-based highly portable transfer library in the world. Some of the world's biggest companies use libcurl in high volume applications.
 * [OpenSSL](https://openssl.org) - OpenSSL is a robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols.
 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
