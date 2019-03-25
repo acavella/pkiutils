@@ -52,21 +52,17 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+PKIUtils is a collection of tools to aid in the administration, maintenance and upkeep of an enterprise PKI system.  Although designed with an enterprise PKI system in mind, PKIUtils will also assist with many everyday PKI related functions at the user level as well.  
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* OpenSSL is extremely powerful tool with an overwelming number of options and commands.
+* PKIUtils leverages OpenSSL and simplifies its operation.
+* PKIUtils can be set to automate routine functions.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue with the tag.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [BASH](https://www.gnu.org/software/bash/)
-* [curl](https://curl.haxx.se/)
+### Built with
+* [BASH](https://www.gnu.org/software/bash/) - Bash is an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh). It is intended to conform to the IEEE POSIX P1003.2/ISO 9945.2 Shell and Tools standard.
+* [curl](https://curl.haxx.se/) - 
+* [OpenSSL](https://openssl.org) - 
 
 
 
