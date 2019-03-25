@@ -18,14 +18,14 @@
   <p align="center">
     Collection of BASH based PKI utilities to assist with administration and maintenance of enterprise PKI systems.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/tonycavella/pkiutils"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/tonycavella/pkiutils">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/tonycavella/pkiutils/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/tonycavella/pkiutils/issues">Request Feature</a>
   </p>
 </p>
 
@@ -65,9 +65,8 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [BASH](https://www.gnu.org/software/bash/)
+* [curl](https://curl.haxx.se/)
 
 
 
